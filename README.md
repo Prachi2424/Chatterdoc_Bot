@@ -32,10 +32,12 @@ A live demo of this Streamlit app is available here:
 
 > **How to try the demo**
 >
-> 1. Open the live demo link above in your browser.
+> 1. Open the live demo link above in your browser.(This demo shows only the frontend.  
+> To make it work, add your own API key in the Streamlit app.)
 > 2. On the login screen enter the demo credentials shown below.
 
 **Demo credentials Username: admin
 Password: 1234**
-
+## 🎥 Demo
+[👉 Click here for the demo video](https://youtu.be/tL3wOq9m_eQ?si=ylyUi9oo8SbAbsEY)
 
