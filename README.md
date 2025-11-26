@@ -39,5 +39,5 @@ A live demo of this Streamlit app is available here:
 **Demo credentials Username: admin
 Password: 1234**
 ## 🎥 Demo
-[👉 Click here for the demo video](https://youtu.be/tL3wOq9m_eQ?si=ylyUi9oo8SbAbsEY)
+[👉 Click here for the demo video](https://www.youtube.com/watch?v=aU1RQQkMnU4))
 
