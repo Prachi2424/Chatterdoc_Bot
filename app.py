@@ -132,7 +132,7 @@ def main():
             st.session_state["pdf_text"] = text
             st.success("PDFs processed successfully!")
 
-        st.session_state["language"] = st.selectbox("Language", ["English", "Hindi", "Marathi", "Tamil", "Telugu", "Gujarati"])
+        st.session_state["language"] = st.selectbox("Language", ["English", "Hindi", "Marathi", "Tamil", "Telugu", "Gujarati","Punjabi"])
 
 if __name__ == "__main__":
     main()
